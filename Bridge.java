@@ -1,9 +1,9 @@
 package android.burul.androidisaev.bridge;
 
-import android.kalys.androidisaev.bridge.enums.Delegates;
-import android.kalys.androidisaev.bridge.httpHandler.HTTPHandler;
-import android.kalys.androidisaev.bridge.serializersAndDeserializers.*;
-import android.kalys.androidisaev.entities.*;
+import android.burul.androidisaev.bridge.enums.Delegates;
+import android.burul.androidisaev.bridge.httpHandler.HTTPHandler;
+import android.burul.androidisaev.bridge.serializersAndDeserializers.*;
+import android.burul.androidisaev.entities.*;
 
 import com.google.gson.*;
 import com.google.gson.reflect.TypeToken;
